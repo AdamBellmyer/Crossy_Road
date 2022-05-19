@@ -1131,3 +1131,1667 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-16.38.32:315][474]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.19-16.38.32:315][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.05.19-16.38.32:316][474]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.19-16.38.57:415][605]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.19-16.38.57:429][605]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-16.38.57:429][605]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-16.53.14:193][611]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.19-16.53.14:672][611]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-16.53.14:672][611]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-16.53.16:064][616]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.05.19-16.53.16:064][616]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.19-18.29.29:497][616]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.05.19-18.29.29:497][616]LogHttp: Warning: 000001EE9869F200: HTTP request timed out after 5774.99 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14683028-4864-EC48-1C32-759158A1B306%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5001a8f74bfe23382b16c09a0e8bc708%7C57799a3af1754387adcf0f15ded68c71%7Cb701d47d-b13a-44a3-b569-493a8a8603ec&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.19-18.29.29:497][616]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.29.29:497][616]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: request failed, libcurl error: 0 (No error)
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ee08a63eb0 [can pipeline])
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (64:ff9b::3447:d225) port 443 (#0))
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 4 (Closing connection 0)
+[2022.05.19-18.29.29:876][617]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.19-18.29.29:892][617]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.19-18.29.30:338][617]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.29.30:338][617]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.29.30:399][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14683028-4864-EC48-1C32-759158A1B306%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5001a8f74bfe23382b16c09a0e8bc708%7C57799a3af1754387adcf0f15ded68c71%7Cb701d47d-b13a-44a3-b569-493a8a8603ec&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.19-18.29.30:749][620]LogHttp: Warning: 000001EE9869F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14683028-4864-EC48-1C32-759158A1B306%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5001a8f74bfe23382b16c09a0e8bc708%7C57799a3af1754387adcf0f15ded68c71%7Cb701d47d-b13a-44a3-b569-493a8a8603ec&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.19-18.29.30:749][620]LogHttp: Warning: 000001EE9869F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.05.19-18.29.30:749][620]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.05.19-18.29.30:749][620]LogHttp: Warning: 000001EE9869F200: libcurl info message cache 1 (Closing connection 1)
+[2022.05.19-18.29.30:750][620]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14683028-4864-EC48-1C32-759158A1B306%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5001a8f74bfe23382b16c09a0e8bc708%7C57799a3af1754387adcf0f15ded68c71%7Cb701d47d-b13a-44a3-b569-493a8a8603ec&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.19-18.30.33:576][806]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{95e02842-6eb6-4da6-b271-85ae298d9418}.
+[2022.05.19-18.30.33:577][806]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.19-18.30.33:767][806]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.30.33:767][806]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.31.33:139][ 49]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.19-18.31.41:348][ 49]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.19-18.33.00:200][247]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.19-18.33.02:444][318]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.19-18.33.02:461][318]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.19-18.33.04:486][364]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> hud
+[2022.05.19-18.33.04:499][364]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.19-18.33.05:894][405]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/hud.hud
+[2022.05.19-18.34.21:296][584]LogSlate: Took 0.012341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.19-18.35.12:448][258]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/hudE1B617BB46C9EBEB3F4A548075FE387E.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/hud.uasset'
+[2022.05.19-18.35.12:465][258]AssetCheck: New page: Asset Save: hud
+[2022.05.19-18.35.12:466][258]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/hud.hud
+[2022.05.19-18.35.58:118][671]BlueprintLog: New page: Compile hud
+[2022.05.19-18.35.58:215][671]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2022.05.19-18.35.58:739][686]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/hud5395AFC74982B558A2A9498D9F3BF39F.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/hud.uasset'
+[2022.05.19-18.35.58:769][686]AssetCheck: New page: Asset Save: hud
+[2022.05.19-18.35.58:769][686]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/hud.hud
+[2022.05.19-18.36.00:169][719]LogSlate: Window 'hud' being destroyed
+[2022.05.19-18.36.00:201][719]LogSlate: Window 'hud' being destroyed
+[2022.05.19-18.36.00:212][719]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.36.00:213][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.00:228][719]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.36.00:228][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.01:002][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1lane_highway_marked8)
+[2022.05.19-18.36.01:825][788]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.36.01:842][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.36.01:842][788]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:36:01 AM)
+[2022.05.19-18.36.01:842][788]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.36.01:853][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010646s)
+[2022.05.19-18.36.01:855][788]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.36.01:856][788]LogPlayLevel: PIE: World Init took: (0.002483s)
+[2022.05.19-18.36.01:856][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013481s)
+[2022.05.19-18.36.01:937][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.05.19-18.36.01:939][788]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.36.01:939][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.36.01:939][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.36.01:939][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.36.01:940][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.36.01:940][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.36.01:940][788]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.36.01:943][788]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.36.01:943][788]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.36.01:965][788]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.36.01:965][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.36.01:965][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.36.01:966][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.36.01:966][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.36.01:966][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.36.01:966][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.36.01:968][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.36.01:968][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.36.01:969][788]LogInit: FAudioDevice initialized.
+[2022.05.19-18.36.01:969][788]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2022.05.19-18.36.01:984][788]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.36.01:988][788]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-11.36.01
+[2022.05.19-18.36.01:989][788]LogWorld: Bringing up level for play took: 0.002517
+[2022.05.19-18.36.01:989][788]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.05.19-18.36.01:995][788]PIE: Server logged in
+[2022.05.19-18.36.01:996][788]PIE: Play in editor total start time 0.16 seconds.
+[2022.05.19-18.36.03:397][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.36.03:397][863]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.36.03:398][863]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.36.03:398][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.03:414][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.36.03:436][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.03:465][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.36.03:465][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.36.03:467][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.36.03:472][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.36.03:504][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.05.19-18.36.03:541][864]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.19-18.36.05:843][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.36.08:749][ 51]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.19-18.36.08:796][ 51]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.19-18.36.12:796][274]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.36.12:821][274]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.36.12:863][274]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.36.12:863][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.17:447][532]LogContentBrowser: Attempting asset rename: hud -> myHud
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud_C' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C:PreConstruct' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C:Construct' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:489][532]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C:Tick' ref from Metadata '/Game/CrossyRoad/BluePrints/hud.PackageMetaData'
+[2022.05.19-18.36.17:538][532]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/myHud34152ED74E453490CCD7FC80B4B361E2.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/myHud.uasset'
+[2022.05.19-18.36.17:656][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.05.19-18.36.17:695][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.05.19-18.36.17:719][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.05.19-18.36.17:763][532]AssetCheck: New page: Asset Save: myHud
+[2022.05.19-18.36.17:763][532]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/myHud.myHud
+[2022.05.19-18.36.31:241][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.36.34:028][688]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.36.34:074][688]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.36.34:074][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.36.34:171][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.37.33:028][306]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.37.33:094][306]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2022.05.19-18.37.33:461][317]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode6EC898174B70A8946201A08022029396.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.37.33:482][317]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.37.33:482][317]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.37.34:215][347]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.37.34:250][347]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.37.34:292][347]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.37.34:292][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.37.38:581][529]LogContentBrowser: Attempting asset rename: myHud -> HUD
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.HUD_C' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.SKEL_HUD_C' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.SKEL_HUD_C:PreConstruct' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.SKEL_HUD_C:Construct' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.SKEL_HUD_C:Tick' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:622][529]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CrossyRoad/BluePrints/myHud.PackageMetaData'
+[2022.05.19-18.37.38:667][529]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD8F6BDD6040B3C8F8BFD5258165F4CFB8.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.37.38:768][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.05.19-18.37.38:807][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.05.19-18.37.38:835][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.19-18.37.38:866][529]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode7105B78F48C69E2EAB8911A476ED7DB7.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.37.38:919][529]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-18.37.38:919][529]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.37.38:919][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.37.40:157][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.39.24:786][681]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.39.24:833][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.05.19-18.39.25:340][695]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameModeCC0BCF58495169F1920D5EA2AF2D1C3E.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.39.25:367][695]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.39.25:367][695]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.39.26:204][723]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.39.26:241][723]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.39.26:246][723]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.39.26:246][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.39.27:031][748]LogEditorViewport: Clicking Background
+[2022.05.19-18.39.27:438][764]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.39.27:454][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.39.27:454][764]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:39:27 AM)
+[2022.05.19-18.39.27:454][764]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.39.27:465][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010324s)
+[2022.05.19-18.39.27:467][764]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.39.27:468][764]LogPlayLevel: PIE: World Init took: (0.002142s)
+[2022.05.19-18.39.27:468][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012751s)
+[2022.05.19-18.39.27:501][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.05.19-18.39.27:503][764]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.19-18.39.27:503][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.39.27:503][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.39.27:503][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.39.27:503][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.39.27:503][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.39.27:504][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.39.27:504][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.39.27:504][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.39.27:504][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.39.27:504][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.39.27:504][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.39.27:504][764]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.39.27:507][764]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.39.27:507][764]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.39.27:519][764]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.39.27:520][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.39.27:520][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.39.27:520][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.39.27:520][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.39.27:521][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.39.27:521][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.39.27:522][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.39.27:522][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.39.27:522][764]LogInit: FAudioDevice initialized.
+[2022.05.19-18.39.27:522][764]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2022.05.19-18.39.27:537][764]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.39.27:540][764]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-11.39.27
+[2022.05.19-18.39.27:540][764]LogWorld: Bringing up level for play took: 0.001437
+[2022.05.19-18.39.27:540][764]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.05.19-18.39.27:551][764]PIE: Server logged in
+[2022.05.19-18.39.27:552][764]PIE: Play in editor total start time 0.102 seconds.
+[2022.05.19-18.39.36:447][567]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-18.39.37:156][647]LogBlueprintUserMessages: [player_bp_C_0] 10
+[2022.05.19-18.39.37:470][682]LogBlueprintUserMessages: [player_bp_C_0] 15
+[2022.05.19-18.39.38:667][817]LogBlueprintUserMessages: [player_bp_C_0] 20
+[2022.05.19-18.39.39:596][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.39.39:596][918]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.39.39:600][918]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.39.39:600][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.39.39:616][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.39.39:623][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.39.39:650][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.39.39:650][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.39.39:652][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.39.39:659][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.39.39:666][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.05.19-18.39.39:700][919]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.19-18.39.41:518][  1]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.40.17:899][244]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.19-18.41.00:617][790]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD5D8B8D234832A76AC973D2ADCB01A1C2.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.41.00:636][790]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-18.41.00:636][790]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.41.01:902][861]BlueprintLog: New page: Compile HUD
+[2022.05.19-18.41.01:945][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.19-18.41.02:340][881]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD84E6F18947FD60ECED1000B4ED2A69D0.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.41.02:360][881]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-18.41.02:360][881]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.41.03:171][924]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.41.03:178][924]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.41.03:182][924]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.41.03:182][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.41.03:189][924]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.41.03:189][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.41.03:705][950]LogEditorViewport: Clicking Background
+[2022.05.19-18.41.04:106][974]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.41.04:116][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.41.04:116][974]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:41:04 AM)
+[2022.05.19-18.41.04:116][974]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.41.04:122][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005927s)
+[2022.05.19-18.41.04:123][974]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.41.04:123][974]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2022.05.19-18.41.04:123][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007536s)
+[2022.05.19-18.41.04:155][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.05.19-18.41.04:156][974]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.41.04:156][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.41.04:156][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.41.04:156][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.41.04:156][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.41.04:157][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.41.04:157][974]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.41.04:160][974]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.41.04:160][974]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.41.04:171][974]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.41.04:172][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.41.04:172][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.41.04:172][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.41.04:173][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.41.04:173][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.41.04:173][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.41.04:175][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.41.04:175][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.41.04:175][974]LogInit: FAudioDevice initialized.
+[2022.05.19-18.41.04:175][974]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2022.05.19-18.41.04:187][974]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.41.04:189][974]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.41.04
+[2022.05.19-18.41.04:190][974]LogWorld: Bringing up level for play took: 0.001737
+[2022.05.19-18.41.04:190][974]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.05.19-18.41.04:200][974]PIE: Server logged in
+[2022.05.19-18.41.04:201][974]PIE: Play in editor total start time 0.089 seconds.
+[2022.05.19-18.41.06:037][ 81]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-18.41.07:529][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.41.07:529][168]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.41.07:529][168]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.41.07:529][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.41.07:545][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.41.07:552][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.41.07:580][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.41.07:580][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.41.07:582][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.41.07:587][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.41.07:594][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.05.19-18.41.07:627][169]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.19-18.41.52:265][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.42.38:091][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2022.05.19-18.42.38:094][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.043
+[2022.05.19-18.42.38:095][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyRoad/BluePrints/CrossyGameMode] ([2] browsable assets)...
+[2022.05.19-18.42.38:095][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyRoad/BluePrints/CrossyGameMode]
+[2022.05.19-18.42.38:107][164]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode_Auto1CFB4968048EC3D3A20984DBE6F72D8A0.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Autosaves/Game/CrossyRoad/BluePrints/CrossyGameMode_Auto1.uasset'
+[2022.05.19-18.42.38:111][164]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.05.19-18.42.43:235][363]LogSlate: Took 0.010357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.19-18.42.51:010][786]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode98941567446F48A27CF0FEB20C478162.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.42.51:029][786]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.42.51:029][786]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.42.58:802][864]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.42.58:849][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.05.19-18.42.59:241][876]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode3037DAA846CEEC486319829738BBE6E1.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.42.59:258][876]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.42.59:259][876]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.43.00:169][913]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.43.00:201][913]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.43.00:208][913]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.43.00:208][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.43.01:466][941]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.44.10:140][683]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.44.10:170][683]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.44.10:174][683]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.44.10:174][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.44.10:184][683]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.44.10:184][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.44.12:966][770]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.19-18.44.12:971][770]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.05.19-18.44.22:924][770]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.19-18.44.24:116][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.44.50:982][171]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.44.50:989][171]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.44.51:012][171]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.44.51:012][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.44.52:679][230]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.45.48:567][491]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD98FD702E45B36DDE016372A2831D64F2.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.45.48:595][491]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-18.45.48:595][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.46.26:035][638]BlueprintLog: New page: Compile HUD
+[2022.05.19-18.46.26:097][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.05.19-18.46.26:601][652]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUDAF228F5041BB997364F3EDBAEF932908.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.46.26:628][652]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-18.46.26:628][652]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.46.49:916][427]BlueprintLog: New page: Compile HUD
+[2022.05.19-18.46.49:971][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.05.19-18.46.50:658][449]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD1336F1FB4C6CB7E4F8F8C6BCF961CB99.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-18.46.50:679][449]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-18.46.50:679][449]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.46.54:201][637]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.46.54:207][637]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.46.54:234][637]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.46.54:234][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.46.54:243][637]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.46.54:243][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.46.55:411][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.48.01:249][ 59]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.48.01:300][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.05.19-18.48.01:884][ 77]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameModeF3FC92DA47DA55EC27EDB494B0700684.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.48.01:912][ 77]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.48.01:912][ 77]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.48.12:252][183]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.48.12:281][183]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.48.12:287][183]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.48.12:287][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.48.12:872][208]LogEditorViewport: Clicking Background
+[2022.05.19-18.48.13:335][232]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.48.13:352][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.48.13:352][232]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:48:13 AM)
+[2022.05.19-18.48.13:352][232]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.48.13:362][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009951s)
+[2022.05.19-18.48.13:364][232]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.48.13:365][232]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2022.05.19-18.48.13:365][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012459s)
+[2022.05.19-18.48.13:403][232]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2022.05.19-18.48.13:404][232]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.48.13:405][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.48.13:405][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.48.13:406][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.48.13:406][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.48.13:406][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.48.13:406][232]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.48.13:411][232]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.48.13:411][232]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.48.13:430][232]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.48.13:431][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.48.13:431][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.48.13:431][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.48.13:432][232]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.48.13:432][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.48.13:432][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.48.13:434][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.48.13:434][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.48.13:434][232]LogInit: FAudioDevice initialized.
+[2022.05.19-18.48.13:434][232]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2022.05.19-18.48.13:452][232]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.48.13:455][232]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.48.13
+[2022.05.19-18.48.13:456][232]LogWorld: Bringing up level for play took: 0.002335
+[2022.05.19-18.48.13:456][232]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.05.19-18.48.13:463][232]PIE: Server logged in
+[2022.05.19-18.48.13:464][232]PIE: Play in editor total start time 0.117 seconds.
+[2022.05.19-18.48.14:978][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.48.14:978][310]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.48.14:978][310]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.48.14:979][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.48.14:994][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.48.15:000][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.48.15:029][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.48.15:029][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.48.15:031][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.48.15:037][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.48.15:044][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.05.19-18.48.15:067][311]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.05.19-18.48.18:213][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.48.42:452][619]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.48.42:461][619]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.48.42:465][619]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.48.42:465][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.48.42:474][619]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.48.42:474][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.48.43:949][654]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.48.53:988][ 92]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode242C68F64F8624F0FB230E9F5F7AE5C2.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.48.54:022][ 92]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.48.54:022][ 92]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.48.54:853][131]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.48.54:902][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.05.19-18.48.55:323][149]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode01ACE4FF4D0ACB80BD93A6941B726605.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.48.55:343][149]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.48.55:344][149]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.48.59:835][396]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode6DF66DB1451AEA6A532171950B016613.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.48.59:862][396]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.48.59:862][396]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.49.01:399][485]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.01:405][485]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.01:409][485]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.01:409][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.02:594][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.49.04:234][562]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.49.04:285][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.05.19-18.49.04:656][574]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode91AFB5A540874ED2F22E4CBBA2EADE2B.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.49.04:676][574]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.49.04:676][574]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.49.05:516][609]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.05:524][609]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.05:528][609]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.05:528][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.06:078][636]LogEditorViewport: Clicking Background
+[2022.05.19-18.49.06:447][658]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.49.06:458][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.49.06:458][658]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:49:06 AM)
+[2022.05.19-18.49.06:493][658]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.06:503][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009566s)
+[2022.05.19-18.49.06:504][658]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.49.06:505][658]LogPlayLevel: PIE: World Init took: (0.002287s)
+[2022.05.19-18.49.06:505][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012272s)
+[2022.05.19-18.49.06:544][658]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2022.05.19-18.49.06:545][658]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.49.06:545][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.49.06:546][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.49.06:546][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.49.06:546][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.49.06:546][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.49.06:546][658]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.49.06:552][658]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.49.06:552][658]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.49.06:570][658]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.49.06:571][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.49.06:571][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.49.06:571][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.49.06:571][658]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.49.06:571][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.49.06:572][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.49.06:574][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.49.06:574][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.49.06:574][658]LogInit: FAudioDevice initialized.
+[2022.05.19-18.49.06:574][658]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2022.05.19-18.49.06:589][658]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.49.06:592][658]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.49.06
+[2022.05.19-18.49.06:593][658]LogWorld: Bringing up level for play took: 0.002285
+[2022.05.19-18.49.06:593][658]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.05.19-18.49.06:599][658]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00B3
+[2022.05.19-18.49.06:600][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.06:600][658]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00C8
+[2022.05.19-18.49.06:600][658]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.06:600][658]PIE: Server logged in
+[2022.05.19-18.49.06:601][658]PIE: Play in editor total start time 0.147 seconds.
+[2022.05.19-18.49.07:888][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.07:888][729]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.07:888][729]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.07:889][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.07:906][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.49.07:912][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.07:942][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.49.07:942][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.07:944][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.07:950][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.07:957][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.05.19-18.49.08:142][730]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.05.19-18.49.12:719][839]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.49.12:729][839]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.49.13:253][861]LogEditorViewport: Clicking Background
+[2022.05.19-18.49.13:717][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.49.13:734][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.49.13:735][885]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:49:13 AM)
+[2022.05.19-18.49.13:773][885]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.13:783][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009522s)
+[2022.05.19-18.49.13:784][885]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.49.13:785][885]LogPlayLevel: PIE: World Init took: (0.002135s)
+[2022.05.19-18.49.13:785][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012014s)
+[2022.05.19-18.49.13:817][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.05.19-18.49.13:818][885]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.49.13:818][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.49.13:818][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.49.13:819][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.49.13:819][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.49.13:819][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.49.13:819][885]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.49.13:824][885]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.49.13:824][885]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.49.13:839][885]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.49.13:839][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.49.13:839][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.49.13:839][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.49.13:840][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.49.13:840][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.49.13:840][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.49.13:842][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.49.13:842][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.49.13:842][885]LogInit: FAudioDevice initialized.
+[2022.05.19-18.49.13:842][885]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2022.05.19-18.49.13:853][885]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.49.13:855][885]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.49.13
+[2022.05.19-18.49.13:856][885]LogWorld: Bringing up level for play took: 0.001522
+[2022.05.19-18.49.13:856][885]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.05.19-18.49.13:861][885]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00B3
+[2022.05.19-18.49.13:861][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.13:861][885]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00C8
+[2022.05.19-18.49.13:861][885]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.13:861][885]PIE: Server logged in
+[2022.05.19-18.49.13:862][885]PIE: Play in editor total start time 0.133 seconds.
+[2022.05.19-18.49.15:251][965]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-18.49.16:658][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.16:658][ 47]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.16:658][ 47]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.16:659][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.16:673][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.49.16:679][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.16:706][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.16:706][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.16:708][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.16:721][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.05.19-18.49.16:909][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.05.19-18.49.24:774][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.49.44:396][403]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.49.44:421][403]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.49.52:560][875]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.52:567][875]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.49.52:570][875]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.52:571][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.53:016][899]LogEditorViewport: Clicking Background
+[2022.05.19-18.49.53:500][928]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.49.53:516][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.49.53:516][928]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:49:53 AM)
+[2022.05.19-18.49.53:517][928]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.53:526][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009555s)
+[2022.05.19-18.49.53:527][928]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.49.53:528][928]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2022.05.19-18.49.53:528][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011988s)
+[2022.05.19-18.49.53:567][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.05.19-18.49.53:570][928]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.49.53:570][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.49.53:570][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.49.53:571][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.49.53:571][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.49.53:571][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.49.53:571][928]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.49.53:576][928]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.49.53:577][928]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.49.53:592][928]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.49.53:592][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.49.53:593][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.49.53:593][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.49.53:593][928]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.49.53:594][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.49.53:594][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.49.53:595][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.49.53:596][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.49.53:596][928]LogInit: FAudioDevice initialized.
+[2022.05.19-18.49.53:596][928]LogAudio: Display: Audio Device (ID: 11) registered with world 'Minimal_Default'.
+[2022.05.19-18.49.53:608][928]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.49.53:612][928]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.49.53
+[2022.05.19-18.49.53:613][928]LogWorld: Bringing up level for play took: 0.002310
+[2022.05.19-18.49.53:613][928]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.05.19-18.49.53:618][928]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00B3
+[2022.05.19-18.49.53:618][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.53:618][928]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00C8
+[2022.05.19-18.49.53:618][928]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.49.53:618][928]PIE: Server logged in
+[2022.05.19-18.49.53:619][928]PIE: Play in editor total start time 0.108 seconds.
+[2022.05.19-18.49.54:558][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.54:558][979]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.49.54:558][979]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.49.54:559][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.54:575][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.49.54:582][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.49.54:610][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.49.54:611][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.54:613][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.49.54:618][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.49.54:625][979]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.05.19-18.49.54:825][980]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.05.19-18.49.58:921][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.50.07:281][507]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.50.07:304][507]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.50.51:601][146]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.50.51:638][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.19-18.50.52:157][169]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode430BA2594678CFC98F0E6B9F05318706.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.50.52:190][169]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.50.52:190][169]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.50.53:536][247]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.50.53:540][247]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.50.53:543][247]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.50.53:543][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.50.54:180][281]LogEditorViewport: Clicking Background
+[2022.05.19-18.50.54:581][305]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-18.50.54:590][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-18.50.54:591][305]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 4:50:54 AM)
+[2022.05.19-18.50.54:591][305]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.50.54:596][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005636s)
+[2022.05.19-18.50.54:597][305]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-18.50.54:598][305]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2022.05.19-18.50.54:598][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007176s)
+[2022.05.19-18.50.54:631][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.05.19-18.50.54:632][305]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-18.50.54:632][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-18.50.54:632][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-18.50.54:633][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-18.50.54:633][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-18.50.54:633][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-18.50.54:633][305]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-18.50.54:636][305]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-18.50.54:636][305]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-18.50.54:647][305]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-18.50.54:648][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-18.50.54:648][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-18.50.54:648][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-18.50.54:648][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-18.50.54:648][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-18.50.54:648][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-18.50.54:650][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-18.50.54:650][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-18.50.54:650][305]LogInit: FAudioDevice initialized.
+[2022.05.19-18.50.54:650][305]LogAudio: Display: Audio Device (ID: 12) registered with world 'Minimal_Default'.
+[2022.05.19-18.50.54:662][305]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-18.50.54:665][305]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-11.50.54
+[2022.05.19-18.50.54:666][305]LogWorld: Bringing up level for play took: 0.001508
+[2022.05.19-18.50.54:666][305]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.05.19-18.50.54:671][305]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00B3
+[2022.05.19-18.50.54:672][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.50.54:672][305]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:00C8
+[2022.05.19-18.50.54:672][305]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-18.50.54:672][305]PIE: Server logged in
+[2022.05.19-18.50.54:673][305]PIE: Play in editor total start time 0.086 seconds.
+[2022.05.19-18.50.55:608][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.50.55:608][356]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-18.50.55:608][356]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.50.55:609][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.50.55:622][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-18.50.55:629][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.50.55:657][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-18.50.55:658][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.50.55:660][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-18.50.55:665][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-18.50.55:671][356]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.05.19-18.50.55:830][357]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.05.19-18.50.57:056][396]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.50.57:093][396]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-18.50.58:615][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.51.02:612][557]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.51.02:625][557]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.51.02:629][557]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.51.02:630][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.51.03:814][591]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.52.39:227][237]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.52.39:262][237]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.52.39:266][237]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.52.39:266][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.52.39:274][237]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.52.39:274][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.52.41:063][271]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.53.45:949][322]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.53.45:983][322]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.53.45:987][322]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.53.45:988][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.53.47:058][340]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.55.08:414][945]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2022.05.19-18.55.08:418][945]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.067
+[2022.05.19-18.55.08:419][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyRoad/BluePrints/HUD] ([2] browsable assets)...
+[2022.05.19-18.55.08:419][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyRoad/BluePrints/HUD]
+[2022.05.19-18.55.08:440][945]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD_Auto231FF30B643EDFC1D3A1931A721DC16F7.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Autosaves/Game/CrossyRoad/BluePrints/HUD_Auto2.uasset'
+[2022.05.19-18.55.08:444][945]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.05.19-18.55.41:569][926]LogEditorTransaction: Undo Rename Variable
+[2022.05.19-18.55.42:024][936]LogEditorTransaction: Undo Set Binding
+[2022.05.19-18.55.42:500][961]LogEditorTransaction: Undo Set Binding
+[2022.05.19-18.55.42:939][985]LogEditorTransaction: Undo Edit Score
+[2022.05.19-18.55.43:377][  9]LogEditorTransaction: Undo Change Number Pin Value
+[2022.05.19-18.55.46:516][181]LogEditorTransaction: Redo Change Number Pin Value
+[2022.05.19-18.55.47:090][195]LogEditorTransaction: Redo Edit Score
+[2022.05.19-18.55.47:596][222]LogEditorTransaction: Redo Set Binding
+[2022.05.19-18.55.48:978][296]LogEditorTransaction: Redo Set Binding
+[2022.05.19-18.55.49:560][328]LogEditorTransaction: Redo Rename Variable
+[2022.05.19-18.56.01:651][ 15]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.56.01:660][ 15]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.56.01:665][ 15]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.56.01:665][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.56.01:673][ 15]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.56.01:673][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.56.02:858][ 54]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.56.26:525][310]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.56.26:533][310]LogBlueprint: Error: [AssetLog] C:\Users\adamb\Documents\Unreal Projects\new crossy road\Crossy_Road_Fixed\Content\CrossyRoad\BluePrints\CrossyGameMode.uasset: [Compiler] The property associated with  Hud Score  could not be found in '/Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C'
+[2022.05.19-18.56.26:573][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.05.19-18.57.18:060][754]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameModeD5804E4A42183548762768B5ECE53331.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.57.18:093][754]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.57.18:093][754]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.57.18:647][786]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.57.18:650][786]LogBlueprint: Error: [AssetLog] C:\Users\adamb\Documents\Unreal Projects\new crossy road\Crossy_Road_Fixed\Content\CrossyRoad\BluePrints\CrossyGameMode.uasset: [Compiler] The property associated with  Hud Score  could not be found in '/Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C'
+[2022.05.19-18.57.18:685][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.19-18.57.32:526][445]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode1CE602D9418CA22CCA674688BF09D367.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.57.32:559][445]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.57.32:559][445]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.57.33:205][472]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.57.33:234][472]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.57.33:237][472]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.57.33:237][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.57.34:490][502]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-18.57.46:096][ 81]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.57.46:106][ 81]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-18.57.46:110][ 81]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.57.46:111][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.57.46:119][ 81]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.57.46:119][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.57.48:106][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.58.08:519][174]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.58.08:522][174]LogBlueprint: Error: [AssetLog] C:\Users\adamb\Documents\Unreal Projects\new crossy road\Crossy_Road_Fixed\Content\CrossyRoad\BluePrints\CrossyGameMode.uasset: [Compiler] The property associated with  Hud Score  could not be found in '/Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C'
+[2022.05.19-18.58.08:565][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.19-18.58.12:198][368]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode8E49E3D248634E2FB299A9B9A6AB4E30.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.58.12:231][368]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.58.12:231][368]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.58.13:654][448]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.58.13:664][448]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-18.58.13:667][448]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-18.58.13:667][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-18.58.15:554][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.58.32:202][358]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.58.32:241][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.19-18.58.40:587][837]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode2F7616794E6717DC5BE2EDA7E3376D09.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-18.58.40:605][837]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-18.58.40:605][837]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-18.58.40:925][855]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.58.40:961][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.19-18.58.43:032][964]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-18.58.43:035][964]LogBlueprint: Error: [AssetLog] C:\Users\adamb\Documents\Unreal Projects\new crossy road\Crossy_Road_Fixed\Content\CrossyRoad\BluePrints\CrossyGameMode.uasset: [Compiler] The property associated with  Hud Score  could not be found in '/Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C'
+[2022.05.19-18.58.43:066][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.05.19-19.01.14:614][143]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.01.14:629][143]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.01.14:635][143]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.01.14:635][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.01.16:002][181]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-19.01.37:859][281]BlueprintLog: New page: Compile HUD
+[2022.05.19-19.01.37:921][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2022.05.19-19.01.38:422][299]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUDA4A6DBD549B45D72547F4DABD1683B20.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-19.01.38:454][299]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-19.01.38:454][299]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-19.01.39:820][369]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.01.39:829][369]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.01.39:834][369]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.01.39:834][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.01.39:845][369]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.01.39:845][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.01.41:383][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.01.55:616][ 98]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-19.01.55:677][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.05.19-19.02.00:500][321]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-19.02.00:557][321]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.05.19-19.02.01:320][357]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameModeB5B880FD4EAD86EAC4B8FCBAA835E40C.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-19.02.01:353][357]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-19.02.01:353][357]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.02.02:336][411]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.02.02:357][411]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.02.02:393][411]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.02:393][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.03:494][469]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-19.02.03:511][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-19.02.03:511][469]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 5:02:03 AM)
+[2022.05.19-19.02.03:543][469]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.02.03:553][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009705s)
+[2022.05.19-19.02.03:555][469]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-19.02.03:555][469]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2022.05.19-19.02.03:555][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012362s)
+[2022.05.19-19.02.03:595][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2022.05.19-19.02.03:596][469]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-19.02.03:596][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-19.02.03:596][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-19.02.03:597][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-19.02.03:597][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-19.02.03:597][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-19.02.03:597][469]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-19.02.03:603][469]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-19.02.03:603][469]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-19.02.03:622][469]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-19.02.03:622][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-19.02.03:622][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-19.02.03:622][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-19.02.03:623][469]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-19.02.03:623][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-19.02.03:623][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-19.02.03:625][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-19.02.03:625][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-19.02.03:625][469]LogInit: FAudioDevice initialized.
+[2022.05.19-19.02.03:625][469]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default'.
+[2022.05.19-19.02.03:638][469]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-19.02.03:642][469]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-12.02.03
+[2022.05.19-19.02.03:642][469]LogWorld: Bringing up level for play took: 0.002335
+[2022.05.19-19.02.03:643][469]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.05.19-19.02.03:648][469]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:001E
+[2022.05.19-19.02.03:649][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.02.03:649][469]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:0033
+[2022.05.19-19.02.03:649][469]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.02.03:649][469]PIE: Server logged in
+[2022.05.19-19.02.03:650][469]PIE: Play in editor total start time 0.144 seconds.
+[2022.05.19-19.02.04:561][520]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-19.02.05:027][548]LogBlueprintUserMessages: [player_bp_C_0] 10
+[2022.05.19-19.02.05:394][570]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-19.02.05:394][570]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-19.02.05:394][570]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.02.05:398][570]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.05:399][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.05:470][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-19.02.05:477][570]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.05.19-19.02.05:478][570]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.02.05:488][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009560s)
+[2022.05.19-19.02.05:490][570]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-19.02.05:490][570]LogPlayLevel: PIE: World Init took: (0.002207s)
+[2022.05.19-19.02.05:490][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012109s)
+[2022.05.19-19.02.05:490][570]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default'.
+[2022.05.19-19.02.05:490][570]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-19.02.05:494][570]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-12.02.05
+[2022.05.19-19.02.05:494][570]LogWorld: Bringing up level for play took: 0.001936
+[2022.05.19-19.02.05:497][570]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:001E
+[2022.05.19-19.02.05:498][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.02.05:498][570]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:0033
+[2022.05.19-19.02.05:498][570]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.02.05:498][570]LogLoad: Took 0.103683 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default)
+[2022.05.19-19.02.05:565][571]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-19.02.06:278][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.02.06:278][611]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.02.06:278][611]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.06:279][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.06:294][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-19.02.06:300][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.06:329][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-19.02.06:329][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.02.06:331][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.02.06:337][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.02.06:344][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.05.19-19.02.06:536][612]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.05.19-19.02.09:227][690]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.02.09:265][690]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.02.15:035][877]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-19.02.22:804][254]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.02.22:816][254]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.02.22:821][254]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.22:821][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.22:831][254]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.22:831][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.24:235][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-19.02.26:233][340]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-19.02.26:268][340]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-19.02.26:273][340]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.26:274][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.27:350][360]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.02.31:640][516]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.02.31:655][516]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.02.31:661][516]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.02.31:661][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.02.32:767][549]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-19.05.38:645][233]LogSlate: Window 'Delete Variable' being destroyed
+[2022.05.19-19.05.49:003][746]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/HUD5770926A4EFE9F596AB037B55B9C1E06.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/HUD.uasset'
+[2022.05.19-19.05.49:031][746]AssetCheck: New page: Asset Save: HUD
+[2022.05.19-19.05.49:031][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/HUD.HUD
+[2022.05.19-19.05.51:496][885]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.05.51:506][885]LogSlate: Window 'HUD' being destroyed
+[2022.05.19-19.05.51:511][885]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.05.51:511][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.05.51:522][885]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.05.51:522][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.05.53:098][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.06.09:510][784]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.06.09:525][784]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.06.09:530][784]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.06.09:531][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.06.10:104][811]LogEditorViewport: Clicking Background
+[2022.05.19-19.06.10:658][844]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-19.06.10:675][844]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.19-19.06.10:677][844]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2022.05.19-19.06.10:760][844]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2022.05.19-19.06.10:764][844]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2022.05.19-19.06.10:764][844]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 5:06:10 AM)
+[2022.05.19-19.06.10:793][844]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.06.10:803][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009790s)
+[2022.05.19-19.06.10:805][844]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-19.06.10:805][844]LogPlayLevel: PIE: World Init took: (0.002233s)
+[2022.05.19-19.06.10:805][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012424s)
+[2022.05.19-19.06.10:839][844]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.05.19-19.06.10:839][844]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-19.06.10:839][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-19.06.10:839][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-19.06.10:840][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-19.06.10:840][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-19.06.10:840][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-19.06.10:840][844]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-19.06.10:845][844]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-19.06.10:845][844]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-19.06.10:863][844]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-19.06.10:863][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-19.06.10:863][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-19.06.10:863][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-19.06.10:864][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-19.06.10:864][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-19.06.10:864][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-19.06.10:866][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-19.06.10:866][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-19.06.10:866][844]LogInit: FAudioDevice initialized.
+[2022.05.19-19.06.10:866][844]LogAudio: Display: Audio Device (ID: 14) registered with world 'Minimal_Default'.
+[2022.05.19-19.06.10:883][844]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-19.06.10:886][844]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-12.06.10
+[2022.05.19-19.06.10:886][844]LogWorld: Bringing up level for play took: 0.002003
+[2022.05.19-19.06.10:887][844]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.05.19-19.06.10:892][844]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:001E
+[2022.05.19-19.06.10:893][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.06.10:893][844]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:0033
+[2022.05.19-19.06.10:893][844]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.06.10:893][844]PIE: Server logged in
+[2022.05.19-19.06.10:894][844]PIE: Play in editor total start time 0.225 seconds.
+[2022.05.19-19.06.11:669][888]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-19.06.12:368][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.06.12:368][926]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.06.12:369][926]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.06.12:369][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.06.12:386][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-19.06.12:393][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.06.12:421][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.06.12:421][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.06.12:424][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.06.12:436][926]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.05.19-19.06.12:623][927]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.05.19-19.06.16:983][144]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.06.17:009][144]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.06.46:164][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.07.22:313][ 35]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.07.22:336][ 35]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.07.22:342][ 35]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.07.22:342][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.07.27:630][283]LogContentBrowser: Attempting asset rename: HUD -> myHud
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud_C' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.myHud_C:Construct' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:658][283]LogMetaData: Removing '/Game/CrossyRoad/BluePrints/myHud.SKEL_myHud_C:Construct' ref from Metadata '/Game/CrossyRoad/BluePrints/HUD.PackageMetaData'
+[2022.05.19-19.07.27:716][283]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/myHudCD9A6080437557697E0DE2A646F54C34.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/myHud.uasset'
+[2022.05.19-19.07.27:874][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.05.19-19.07.27:920][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.05.19-19.07.27:949][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.05.19-19.07.28:000][283]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode78D30435425C33BC353825A1299E2BA5.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-19.07.28:081][283]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-19.07.28:082][283]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.07.28:082][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/CrossyRoad/BluePrints/myHud.myHud
+[2022.05.19-19.07.29:347][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.07.57:633][550]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode97D35F744B9C11AC4FAF1BA1A15FDD53.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-19.07.57:662][550]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-19.07.57:662][550]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.07.59:061][624]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-19.07.59:127][624]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2022.05.19-19.08.02:654][806]BlueprintLog: New page: Compile CrossyGameMode
+[2022.05.19-19.08.02:714][806]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2022.05.19-19.08.03:416][838]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameMode27A478F14E7C76F0BB4B53A76D799F86.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-19.08.03:451][838]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-19.08.03:451][838]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.08.04:551][897]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.08.04:572][897]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.08.04:577][897]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.08.04:577][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.08.05:614][950]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-19.08.05:630][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-19.08.05:631][950]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 5:08:05 AM)
+[2022.05.19-19.08.05:631][950]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.08.05:641][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009780s)
+[2022.05.19-19.08.05:642][950]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-19.08.05:643][950]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2022.05.19-19.08.05:643][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012239s)
+[2022.05.19-19.08.05:680][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.05.19-19.08.05:681][950]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-19.08.05:681][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-19.08.05:681][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-19.08.05:682][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-19.08.05:682][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-19.08.05:682][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-19.08.05:682][950]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-19.08.05:686][950]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-19.08.05:686][950]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-19.08.05:705][950]LogAudioMixer: Display: Using Audio Device Headphones (AirPods Stereo)
+[2022.05.19-19.08.05:705][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-19.08.05:706][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-19.08.05:706][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-19.08.05:706][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-19.08.05:706][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-19.08.05:706][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-19.08.05:709][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-19.08.05:709][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-19.08.05:709][950]LogInit: FAudioDevice initialized.
+[2022.05.19-19.08.05:709][950]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2022.05.19-19.08.05:723][950]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-19.08.05:726][950]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-12.08.05
+[2022.05.19-19.08.05:726][950]LogWorld: Bringing up level for play took: 0.001982
+[2022.05.19-19.08.05:727][950]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.05.19-19.08.05:732][950]LogScript: Warning: Accessed None trying to read property HUD
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:001E
+[2022.05.19-19.08.05:732][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.08.05:732][950]LogScript: Warning: Attempted to assign to None
+	CrossyGameMode_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.CrossyGameMode_C_0
+	Function /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode_C:ExecuteUbergraph_CrossyGameMode:0033
+[2022.05.19-19.08.05:732][950]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.08.05:733][950]PIE: Server logged in
+[2022.05.19-19.08.05:734][950]PIE: Play in editor total start time 0.108 seconds.
+[2022.05.19-19.08.06:491][987]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-19.08.07:073][ 17]LogBlueprintUserMessages: [player_bp_C_0] 10
+[2022.05.19-19.08.07:644][ 51]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-19.08.07:644][ 51]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-19.08.07:644][ 51]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.08.07:645][ 51]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.08.07:645][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.08.07:719][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-19.08.07:726][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.05.19-19.08.07:728][ 51]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.08.07:737][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009462s)
+[2022.05.19-19.08.07:739][ 51]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-19.08.07:739][ 51]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2022.05.19-19.08.07:740][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011954s)
+[2022.05.19-19.08.07:740][ 51]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2022.05.19-19.08.07:740][ 51]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-19.08.07:743][ 51]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.05.19-12.08.07
+[2022.05.19-19.08.07:743][ 51]LogWorld: Bringing up level for play took: 0.001811
+[2022.05.19-19.08.07:747][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.08.07:747][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  CrossyGameMode Function:  Execute Ubergraph Crossy Game Mode Graph:  EventGraph Node:  Set score
+[2022.05.19-19.08.07:747][ 51]LogLoad: Took 0.101979 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default)
+[2022.05.19-19.08.08:868][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.08.08:868][112]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-19.08.08:868][112]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.08.08:869][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.08.08:886][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-19.08.08:893][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.08.08:920][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-19.08.08:920][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.08.08:922][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.08.08:929][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-19.08.08:935][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.05.19-19.08.09:144][113]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.05.19-19.08.19:529][661]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.08.19:560][661]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-19.08.22:717][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.08.29:880][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.19-19.08.29:926][ 25]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.19-19.09.01:131][654]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/CrossyGameModeA3E4708D4801B1D36EF7D09A05E8D6CF.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/CrossyGameMode.uasset'
+[2022.05.19-19.09.01:158][654]AssetCheck: New page: Asset Save: CrossyGameMode
+[2022.05.19-19.09.01:159][654]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/CrossyGameMode.CrossyGameMode
+[2022.05.19-19.09.05:521][902]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.09.05:533][902]LogSlate: Window 'CrossyGameMode' being destroyed
+[2022.05.19-19.09.05:539][902]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.05:539][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-19.09.06:567][954]LogEditorViewport: Clicking Background
+[2022.05.19-19.09.07:018][976]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.05.19-19.09.07:061][976]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Minimal_Default03060D7E4A981295160B92ADCBA0D494.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.19-19.09.07:131][976]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Minimal_Default_BuiltData89B15A52478F4F2A6B593389DDBCA59B.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.19-19.09.07:162][976]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-19.09.07:162][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.19-19.09.07:162][976]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.19-19.09.08:965][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.19-19.09.09:002][ 81]LogSlate: Window 'Crossy_Road_Fixed - Unreal Editor' being destroyed
+[2022.05.19-19.09.09:219][ 82]Cmd: QUIT_EDITOR
+[2022.05.19-19.09.09:219][ 82]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.19-19.09.09:230][ 82]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.19-19.09.09:259][ 82]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.19-19.09.09:260][ 82]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.19-19.09.09:260][ 82]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.05.19-19.09.09:260][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.09.09:263][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-19.09.09:305][ 82]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.19-19.09.09:305][ 82]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.19-19.09.09:318][ 82]LogExit: Preparing to exit.
+[2022.05.19-19.09.09:459][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.05.19-19.09.09:846][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:847][ 82]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.19-19.09.09:850][ 82]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:853][ 82]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:856][ 82]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:859][ 82]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:861][ 82]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:865][ 82]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:960][ 82]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.19-19.09.09:991][ 82]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-19.09.09:991][ 82]LogExit: Editor shut down
+[2022.05.19-19.09.09:994][ 82]LogExit: Transaction tracking system shut down
+[2022.05.19-19.09.10:613][ 82]LogExit: Object subsystem successfully closed.
+[2022.05.19-19.09.10:647][ 82]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.19-19.09.10:647][ 82]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.19-19.09.10:647][ 82]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.19-19.09.10:651][ 82]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.19-19.09.10:651][ 82]LogShaderCompilers: Display: ================================================
+[2022.05.19-19.09.10:670][ 82]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.19-19.09.10:791][ 82]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.19-19.09.10:792][ 82]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.19-19.09.10:795][ 82]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (840)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (838)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (836)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module OpenXRInput (834)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module GooglePADEditor (832)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (830)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2022.05.19-19.09.10:796][ 82]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (798)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (796)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (794)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (792)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.19-19.09.10:797][ 82]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.19-19.09.10:799][ 82]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.19-19.09.10:800][ 82]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.19-19.09.12:525][ 82]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.19-19.09.12:526][ 82]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.19-19.09.12:526][ 82]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.19-19.09.12:526][ 82]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.19-19.09.12:526][ 82]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.19-19.09.12:528][ 82]MemoryProfiler: Shutdown
+[2022.05.19-19.09.12:528][ 82]NetworkingProfiler: Shutdown
+[2022.05.19-19.09.12:529][ 82]LoadingProfiler: Shutdown
+[2022.05.19-19.09.12:530][ 82]TimingProfiler: Shutdown
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.19-19.09.12:531][ 82]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.19-19.09.12:532][ 82]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.19-19.09.12:568][ 82]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.19-19.09.12:569][ 82]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.19-19.09.12:569][ 82]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.19-19.09.12:569][ 82]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.19-19.09.12:569][ 82]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.19-19.09.12:570][ 82]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.19-19.09.12:571][ 82]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.19-19.09.12:571][ 82]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.19-19.09.12:571][ 82]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.19-19.09.12:571][ 82]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.19-19.09.12:571][ 82]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.19-19.09.12:595][ 82]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.19-19.09.12:595][ 82]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.19-19.09.12:596][ 82]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.19-19.09.12:596][ 82]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.19-19.09.12:601][ 82]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.19-19.09.12:601][ 82]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.19-19.09.12:601][ 82]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.19-19.09.12:603][ 82]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.19-19.09.12:603][ 82]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.19-19.09.12:604][ 82]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.19-19.09.12:605][ 82]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.19-19.09.12:606][ 82]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.19-19.09.12:622][ 82]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.19-19.09.12:829][ 82]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.19-19.09.12:829][ 82]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.19-19.09.12:829][ 82]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.19-19.09.12:830][ 82]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (578)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (576)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (574)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (572)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (570)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module OpenXREditor (568)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (566)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ScreenshotTools (564)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module GooglePAD (562)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module EditableMesh (560)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (558)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module CableComponent (556)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AudioCapture (554)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (553)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (550)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AssetTags (548)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (546)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AppleImageUtils (544)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module AndroidPermission (542)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (540)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (538)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MediaCompositing (536)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module ImgMedia (534)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module TemplateSequence (532)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (530)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (528)
+[2022.05.19-19.09.12:831][ 82]LogOpenImageDenoise: OIDN shutting down
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (526)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MotoSynth (524)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (522)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.05.19-19.09.12:831][ 82]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (506)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (498)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module ChaosNiagara (494)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (493)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (490)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (488)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module PluginBrowser (486)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (484)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (482)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module BackChannel (480)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (478)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module AutomationUtils (476)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module CurveEditorTools (474)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (472)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module CryptoKeys (470)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module AlembicImporter (468)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module AlembicLibrary (467)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCache (466)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (465)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (456)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2022.05.19-19.09.12:832][ 82]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.05.19-19.09.12:833][ 82]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.05.19-19.09.13:525][ 82]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (402)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (400)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (398)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (396)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (394)
+[2022.05.19-19.09.13:526][ 82]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (392)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (390)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (388)
+[2022.05.19-19.09.13:526][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (386)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapController (384)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (382)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapAR (380)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (368)
+[2022.05.19-19.09.13:527][ 82]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2022.05.19-19.09.13:628][ 82]LogModuleManager: Shutting down and abandoning module ActorSequence (364)
+[2022.05.19-19.09.13:628][ 82]LogModuleManager: Shutting down and abandoning module UdpMessaging (362)
+[2022.05.19-19.09.13:728][ 82]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2022.05.19-19.09.13:728][ 82]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2022.05.19-19.09.13:729][ 82]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2022.05.19-19.09.13:729][ 82]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (350)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.05.19-19.09.13:730][ 82]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.05.19-19.09.13:735][ 82]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.05.19-19.09.13:735][ 82]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.05.19-19.09.13:735][ 82]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.05.19-19.09.13:735][ 82]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.05.19-19.09.13:736][ 82]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module GameplayCameras (318)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.19-19.09.13:737][ 82]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.19-19.09.13:744][ 82]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.19-19.09.13:744][ 82]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.19-19.09.13:744][ 82]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.19-19.09.13:744][ 82]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.19-19.09.13:744][ 82]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.19-19.09.13:745][ 82]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.19-19.09.13:748][ 82]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.19-19.09.13:748][ 82]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.19-19.09.13:749][ 82]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.19-19.09.13:753][ 82]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.19-19.09.13:754][ 82]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.19-19.09.13:755][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.19-19.09.13:756][ 82]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.19-19.09.13:768][ 82]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.19-19.09.13:768][ 82]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.19-19.09.13:768][ 82]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.19-19.09.13:768][ 82]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.19-19.09.13:769][ 82]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.19-19.09.13:791][ 82]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.19-19.09.13:792][ 82]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.19-19.09.13:792][ 82]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.19-19.09.13:802][ 82]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.19-19.09.13:840][ 82]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.19-19.09.13:840][ 82]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.19-19.09.13:840][ 82]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.19-19.09.13:840][ 82]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.19-19.09.13:841][ 82]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.19-19.09.13:843][ 82]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module MLSDK (108)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module MagicLeap (106)
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2022.05.19-19.09.13:843][ 82]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.19-19.09.13:843][ 82]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (102)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module OpenXRAR (100)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module AugmentedReality (99)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module OpenXRHMD (96)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2022.05.19-19.09.13:844][ 82]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2022.05.19-19.09.13:847][ 82]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2022.05.19-19.09.13:847][ 82]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2022.05.19-19.09.13:884][ 82]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2022.05.19-19.09.13:885][ 82]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.19-19.09.13:885][ 82]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14683028-4864-EC48-1C32-759158A1B306%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5001a8f74bfe23382b16c09a0e8bc708%7C57799a3af1754387adcf0f15ded68c71%7Cb701d47d-b13a-44a3-b569-493a8a8603ec&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.19-19.09.13:885][ 82]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.19-19.09.13:914][ 82]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2022.05.19-19.09.13:918][ 82]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.05.19-19.09.13:923][ 82]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.05.19-19.09.13:925][ 82]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.05.19-19.09.13:925][ 82]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.05.19-19.09.13:925][ 82]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.05.19-19.09.13:926][ 82]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.05.19-19.09.13:926][ 82]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2022.05.19-19.09.13:926][ 82]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.19-19.09.13:927][ 82]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.19-19.09.13:928][ 82]LogXGEController: Cleaning working directory: C:/Users/adamb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.19-19.09.13:928][ 82]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.19-19.09.13:934][ 82]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.19-19.09.13:934][ 82]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.19-19.09.13:935][ 82]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.19-19.09.13:935][ 82]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.19-19.09.13:935][ 82]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.19-19.09.13:940][ 82]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.19-19.09.13:942][ 82]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.19-19.09.13:986][ 82]LogD3D11RHI: Shutdown
+[2022.05.19-19.09.13:987][ 82]LogD3D11RHI: CleanupD3DDevice
+[2022.05.19-19.09.13:996][ 82]LogExit: Exiting.
+[2022.05.19-19.09.14:024][ 82]Log file closed, 05/19/22 12:09:14
