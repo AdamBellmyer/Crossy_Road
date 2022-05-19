@@ -892,3 +892,242 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-16.31.55:195][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.05.19-16.31.55:195][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.05.19-16.31.55:431][  3]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.19-16.32.39:295][451]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.19-16.32.39:318][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.32.39:686][451]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.05.19-16.32.40:651][451]LogSlate: Took 0.000924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.19-16.33.26:277][338]LogSlate: Took 0.003848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.19-16.34.21:555][135]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/player_bp17F60A4C48AB4198B1F6D9A3676C571E.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/player_bp.uasset'
+[2022.05.19-16.34.21:571][135]AssetCheck: New page: Asset Save: player_bp
+[2022.05.19-16.34.21:571][135]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.34.22:137][171]BlueprintLog: New page: Compile player_bp
+[2022.05.19-16.34.22:210][171]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2022.05.19-16.34.22:291][171]LogSlate: Took 0.000613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.19-16.34.22:670][195]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/player_bpD3B0724C4B2C18195DB02EBE2D29E93D.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/player_bp.uasset'
+[2022.05.19-16.34.22:682][195]AssetCheck: New page: Asset Save: player_bp
+[2022.05.19-16.34.22:682][195]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.34.23:807][276]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.34.23:814][276]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.34.23:819][276]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.34.23:819][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.34.25:262][410]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-16.34.25:272][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-16.34.25:273][410]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 2:34:25 AM)
+[2022.05.19-16.34.25:275][410]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.19-16.34.25:277][410]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.19-16.34.25:277][410]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.34.25:283][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005737s)
+[2022.05.19-16.34.25:284][410]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-16.34.25:284][410]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2022.05.19-16.34.25:284][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007056s)
+[2022.05.19-16.34.25:305][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.05.19-16.34.25:306][410]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-16.34.25:306][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-16.34.25:306][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-16.34.25:307][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-16.34.25:307][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-16.34.25:307][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-16.34.25:307][410]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-16.34.25:309][410]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-16.34.25:309][410]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-16.34.25:325][410]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.19-16.34.25:325][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-16.34.25:325][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-16.34.25:326][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-16.34.25:326][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-16.34.25:326][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-16.34.25:326][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-16.34.25:328][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-16.34.25:328][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-16.34.25:328][410]LogInit: FAudioDevice initialized.
+[2022.05.19-16.34.25:328][410]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.05.19-16.34.25:335][410]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-16.34.25:337][410]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-09.34.25
+[2022.05.19-16.34.25:337][410]LogWorld: Bringing up level for play took: 0.001202
+[2022.05.19-16.34.25:337][410]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.19-16.34.25:344][410]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.19-16.34.25:345][410]PIE: Server logged in
+[2022.05.19-16.34.25:346][410]PIE: Play in editor total start time 0.077 seconds.
+[2022.05.19-16.34.25:715][412]LogBlueprintUserMessages: [player_bp_C_0] 0
+[2022.05.19-16.34.37:947][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.34.37:947][849]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.34.37:947][849]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.34.37:948][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.34.37:965][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-16.34.37:974][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.34.38:006][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.34.38:007][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.34.38:009][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.34.38:077][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.05.19-16.34.38:091][850]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.19-16.34.38:173][853]Cmd: SELECT NONE
+[2022.05.19-16.34.49:754][944]LogEditorViewport: Clicking Background
+[2022.05.19-16.34.55:968][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.35.01:205][518]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.35.01:236][518]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.35.01:239][518]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.35.01:239][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.02:052][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1lane_grass)
+[2022.05.19-16.35.03:096][612]LogEditorViewport: Clicking Background
+[2022.05.19-16.35.03:661][667]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-16.35.03:671][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-16.35.03:671][667]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 2:35:03 AM)
+[2022.05.19-16.35.03:694][667]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.03:704][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010090s)
+[2022.05.19-16.35.03:706][667]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-16.35.03:707][667]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2022.05.19-16.35.03:707][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012640s)
+[2022.05.19-16.35.03:799][667]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.05.19-16.35.03:801][667]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-16.35.03:801][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-16.35.03:801][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-16.35.03:802][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-16.35.03:802][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-16.35.03:802][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-16.35.03:802][667]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-16.35.03:807][667]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-16.35.03:807][667]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-16.35.03:834][667]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.19-16.35.03:835][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-16.35.03:835][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-16.35.03:835][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-16.35.03:835][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-16.35.03:836][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-16.35.03:836][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-16.35.03:838][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-16.35.03:838][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-16.35.03:838][667]LogInit: FAudioDevice initialized.
+[2022.05.19-16.35.03:838][667]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.05.19-16.35.03:850][667]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-16.35.03:853][667]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-09.35.03
+[2022.05.19-16.35.03:853][667]LogWorld: Bringing up level for play took: 0.002340
+[2022.05.19-16.35.03:854][667]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.05.19-16.35.03:858][667]PIE: Server logged in
+[2022.05.19-16.35.03:859][667]PIE: Play in editor total start time 0.192 seconds.
+[2022.05.19-16.35.03:929][668]LogBlueprintUserMessages: [player_bp_C_0] 0
+[2022.05.19-16.35.05:319][828]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-16.35.05:320][828]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2022.05.19-16.35.05:320][828]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.05:320][828]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.35.05:320][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.05:386][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-16.35.05:393][828]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.05.19-16.35.05:395][828]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.05:401][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006277s)
+[2022.05.19-16.35.05:402][828]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-16.35.05:403][828]LogPlayLevel: PIE: World Init took: (0.001722s)
+[2022.05.19-16.35.05:403][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008279s)
+[2022.05.19-16.35.05:403][828]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.05.19-16.35.05:403][828]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-16.35.05:405][828]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-09.35.05
+[2022.05.19-16.35.05:406][828]LogWorld: Bringing up level for play took: 0.001713
+[2022.05.19-16.35.05:409][828]LogLoad: Took 0.088679 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default)
+[2022.05.19-16.35.06:073][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.35.06:073][886]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.06:074][886]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.35.06:074][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.06:088][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-16.35.06:095][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.06:122][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-16.35.06:123][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.35.06:125][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.35.06:129][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.35.06:136][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.05.19-16.35.06:166][887]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.19-16.35.06:565][921]Cmd: SELECT NONE
+[2022.05.19-16.35.07:818][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.35.43:969][132]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/player_bp504121644859AF29869F2889DA4513E5.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/player_bp.uasset'
+[2022.05.19-16.35.43:990][132]AssetCheck: New page: Asset Save: player_bp
+[2022.05.19-16.35.43:990][132]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.35.45:075][193]BlueprintLog: New page: Compile player_bp
+[2022.05.19-16.35.45:128][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.05.19-16.35.47:336][325]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/player_bp81D317EC4756082286099684BF49E505.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/CrossyRoad/BluePrints/player_bp.uasset'
+[2022.05.19-16.35.47:356][325]AssetCheck: New page: Asset Save: player_bp
+[2022.05.19-16.35.47:356][325]LogContentValidation: Display: Validating Blueprint /Game/CrossyRoad/BluePrints/player_bp.player_bp
+[2022.05.19-16.35.48:126][380]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.35.48:144][380]LogSlate: Window 'player_bp' being destroyed
+[2022.05.19-16.35.48:180][380]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.35.48:180][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.48:721][421]LogEditorViewport: Clicking Background
+[2022.05.19-16.35.49:236][474]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-16.35.49:247][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-16.35.49:247][474]PIE: New page: PIE session: Minimal_Default (May 19, 2022, 2:35:49 AM)
+[2022.05.19-16.35.49:248][474]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.49:254][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006467s)
+[2022.05.19-16.35.49:255][474]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.19-16.35.49:256][474]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2022.05.19-16.35.49:256][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008262s)
+[2022.05.19-16.35.49:284][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.05.19-16.35.49:285][474]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.19-16.35.49:285][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-16.35.49:285][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-16.35.49:286][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-16.35.49:286][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-16.35.49:286][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-16.35.49:286][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-16.35.49:286][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-16.35.49:286][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-16.35.49:286][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-16.35.49:286][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-16.35.49:286][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-16.35.49:287][474]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-16.35.49:289][474]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-16.35.49:289][474]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-16.35.49:327][474]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.19-16.35.49:327][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-16.35.49:327][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-16.35.49:327][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-16.35.49:328][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-16.35.49:328][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-16.35.49:328][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-16.35.49:330][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-16.35.49:330][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-16.35.49:330][474]LogInit: FAudioDevice initialized.
+[2022.05.19-16.35.49:330][474]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2022.05.19-16.35.49:341][474]LogLoad: Game class is 'CrossyGameMode_C'
+[2022.05.19-16.35.49:344][474]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.19-09.35.49
+[2022.05.19-16.35.49:345][474]LogWorld: Bringing up level for play took: 0.002361
+[2022.05.19-16.35.49:345][474]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.05.19-16.35.49:355][474]PIE: Server logged in
+[2022.05.19-16.35.49:357][474]PIE: Play in editor total start time 0.113 seconds.
+[2022.05.19-16.35.50:662][615]LogBlueprintUserMessages: [player_bp_C_0] 5
+[2022.05.19-16.35.51:439][707]LogBlueprintUserMessages: [player_bp_C_0] 10
+[2022.05.19-16.35.52:273][807]LogBlueprintUserMessages: [player_bp_C_0] 15
+[2022.05.19-16.35.53:090][905]LogBlueprintUserMessages: [player_bp_C_0] 20
+[2022.05.19-16.35.53:624][969]LogBlueprintUserMessages: [player_bp_C_0] 25
+[2022.05.19-16.35.54:633][ 90]LogBlueprintUserMessages: [player_bp_C_0] 30
+[2022.05.19-16.35.55:525][197]LogBlueprintUserMessages: [player_bp_C_0] 35
+[2022.05.19-16.35.56:017][256]LogBlueprintUserMessages: [player_bp_C_0] 40
+[2022.05.19-16.35.56:383][300]LogBlueprintUserMessages: [player_bp_C_0] 45
+[2022.05.19-16.35.56:708][339]LogBlueprintUserMessages: [player_bp_C_0] 50
+[2022.05.19-16.35.57:017][376]LogBlueprintUserMessages: [player_bp_C_0] 55
+[2022.05.19-16.35.58:145][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.35.58:145][507]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.19-16.35.58:145][507]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-16.35.58:145][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.58:156][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-16.35.58:160][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-16.35.58:187][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-16.35.58:187][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.35.58:188][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-16.35.58:192][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-16.35.58:195][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.05.19-16.35.58:213][508]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.19-16.38.32:209][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.19-16.38.32:238][474]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Minimal_DefaultB54BC3FC485454C4657804BDACF00A4B.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.19-16.38.32:290][474]LogSavePackage: Moving '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Saved/Minimal_Default_BuiltData781981224EDAA7A77F574A92DF243B6C.tmp' to '../../../../../../Users/adamb/Documents/Unreal Projects/new crossy road/Crossy_Road_Fixed/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.19-16.38.32:315][474]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-16.38.32:315][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.19-16.38.32:316][474]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
